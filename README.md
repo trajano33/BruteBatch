@@ -12,7 +12,7 @@ Se você não tem o git instale por esse link:
 https://codeload.github.com/Trajano157/BruteBatch/zip/refs/heads/main
 
 ## Uso
-Basta dar dois cliques em cima do *[BruteBatch.bat](https://github.com/Trajano157/BruteBatch.bat/blob/main/BruteBatch.bat "BruteBatch.bat")*
+Basta dar dois cliques em cima do *[BruteForce.bat](https://github.com/Trajano157/BruteBatch.bat/blob/main/BruteForce.bat "BruteForce.bat")*
 e depois só usar 
 
 
