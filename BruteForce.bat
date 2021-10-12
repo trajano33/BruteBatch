@@ -1,3 +1,6 @@
+::  By: Trajano
+::  Version: 1.0
+
 @echo off
 @chcp.com 65001 >nul
 
